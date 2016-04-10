@@ -2,22 +2,22 @@
 #
 
 # Site settings
-title: Spectral
+title: Code for Infrastructure
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+  A collection of resources and 
+  datasets available for use
+  by Code for America Brigades
+owner: Code for San Francisco
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
-baseurl: "/spectral" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.github.io" # the base hostname & protocol for your site
+email: infrastructure@codeforsanfrancisco.org
+baseurl: "/infrastructure" # the subpath of your site, e.g. /blog
+url: "http://codeforsanfrancisco.org" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  twitter: https://twitter.com/sfbrigade
+  github: https://github.com/sfbrigade
+  linkedin-square: https://linkedin.com/in/sfbrigade
+  facebook-official: https://facebook.com/sfbrigade
+  google-plus-square: https://plus.google.com/u/0/+sfbrigade
   #email: /contact/
   #flickr:
   #instagram:
