@@ -4,7 +4,7 @@
 # Site settings
 title: Code for Infrastructure
 description: |
-  A collection of resources and 
+  A collection of resources and
   datasets available for use
   by Code for America Brigades
 owner: Code for San Francisco
@@ -15,9 +15,9 @@ url: "http://codeforsanfrancisco.org" # the base hostname & protocol for your si
 social:
   twitter: https://twitter.com/sfbrigade
   github: https://github.com/sfbrigade
-  linkedin-square: https://linkedin.com/in/sfbrigade
-  facebook-official: https://facebook.com/sfbrigade
-  google-plus-square: https://plus.google.com/u/0/+sfbrigade
+  # linkedin-square: https://linkedin.com/in/sfbrigade
+  # facebook-official: https://facebook.com/sfbrigade
+  # google-plus-square: https://plus.google.com/u/0/+sfbrigade
   #email: /contact/
   #flickr:
   #instagram:
